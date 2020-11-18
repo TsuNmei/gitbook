@@ -1,2 +1,2 @@
-# Python - Def 定義
+# Define 定義
 
