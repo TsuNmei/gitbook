@@ -80,9 +80,8 @@ today.ctime()
 # import 
 from datetime import time
 
-time.hour
-time.minute
-time.second 
+print(time.hour, time.minute, time.second)
+
 time.max
 # Output: datetime.time(23, 59, 59, 999999)
 time.min
