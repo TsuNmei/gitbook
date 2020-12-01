@@ -8,11 +8,14 @@
 * [For / While 迴圈](for-while-hui-quan.md)
 * [Generator / Decorator](generator-decorator.md)
 * [Decorator 裝飾器](decorator-zhuang-shi-qi.md)
-* [Untitled](untitled.md)
 * [Exceptions](exceptions.md)
 
 ## Useful Packages
 
 * [Import - json](useful-packages/import-json.md)
 * [Import datetime](useful-packages/import-datetime.md)
+
+## Side Learn
+
+* [Hash 雜湊值](side-learn/hash-za-cou-zhi.md)
 
