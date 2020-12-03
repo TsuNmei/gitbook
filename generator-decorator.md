@@ -74,11 +74,11 @@ cat()
 # Calcuate the function runtime
 
 def calc_time(func):
-   import time
+   from time import time
    def wrapper():
-      s = time.time()
+      s = time()
       func() 
-      e = time.time()
+      e = time()
       print("The func takes {} second".format(round(e-s, 7)))
    
    return wrapper
