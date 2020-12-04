@@ -38,8 +38,10 @@ print_func_name(cat)()
 ```
 
 {% hint style="success" %}
-ㄋㄟㄋㄟ 補給站：**syntax candy**（語法糖）就是簡化的語法，可以將數十行的 code，寫個幾行或是寫個符號上去，就可以省略許多重複的過程，這在多數語言中都有類似的的語法！
+ㄋㄟㄋㄟ 補給站：**syntax candy**（語法糖）就是簡化的語法，可以將數十行的 code，寫個幾行或是寫個符號上去，就可以省略許多重複的過程。這是為什麼可以讓 code 「甜」一點，讓語言更貼近自然語言一點！且這在多數語言中都有類似的語法～
 {% endhint %}
+
+
 
 ```python
 # User decorator implement
