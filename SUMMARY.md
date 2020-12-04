@@ -7,7 +7,6 @@
 * [Define 定義](python-def-ding-yi.md)
 * [For / While 迴圈](for-while-hui-quan.md)
 * [Generator / Decorator](generator-decorator.md)
-* [Decorator 裝飾器](decorator-zhuang-shi-qi.md)
 * [Exceptions](exceptions.md)
 
 ## Useful Packages

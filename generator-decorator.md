@@ -84,14 +84,17 @@ def calc_time(func):
       print("The func takes {} second".format(round(e-s, 7)))
    
    return wrapper
-   
 
+calc_time(forloop)()
+
+            
 @calc_time
 def forloop():
    res = 0
    for i in range(100000):
       res+=i
    print(res)
+
 
 
 forloop()
