@@ -17,4 +17,5 @@
 ## Side Learn
 
 * [Hash 雜湊值](side-learn/hash-za-cou-zhi.md)
+* [Closure 閉包](side-learn/closure-bi-bao.md)
 
