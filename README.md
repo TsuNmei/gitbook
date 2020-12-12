@@ -2,14 +2,27 @@
 description: 這是我的 python 小筆記
 ---
 
-# Python webook
+# Python 筆記小天堂
 
-### TABLE OF CONTENT
+### ＊ Python Lesson
 
-* [Class 類別](python-class-lei-bie/)
-* [Function 定義](python-def-ding-yi.md) 
-* [For/While 迴圈](for-while-hui-quan.md)
-* [Generator/Iterator 生成器/迭代器](generator-decorator.md)
+* [Class](python-lesson/python-class-lei-bie/) 
+* [Function](python-lesson/python-def-ding-yi.md)
+* [For/While](python-lesson/for-while-hui-quan.md)
+* [Generator/Iterator](python-lesson/generator-decorator.md)
+* [Exceptions](https://app.gitbook.com/@meitzuen/s/python/~/drafts/-MOMb4-fk6O5arDHZT2E/python-lesson/exceptions)
 
+### ＊ Useful Packages
 
+* Json
+* Datetime
+* Requests
+* Urlib3
+* Pandas
+* Matplotlib
+
+### ＊Extra Learn
+
+* Hash 雜湊值
+* Closure 閉包
 
