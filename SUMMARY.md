@@ -16,6 +16,7 @@
 
 * [Import - json](useful-packages/import-json.md)
 * [Import datetime](useful-packages/import-datetime.md)
+* [Import - requests](useful-packages/import-requests.md)
 
 ## Extra learn
 
