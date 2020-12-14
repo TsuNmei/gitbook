@@ -38,7 +38,7 @@ $ sudo jupyter nbextensions_configurator enable --user
 $ pip install --upgrade jupyterthemes
 
 # Manage theme
-$ jt -t onedork -f roboto -fs 14 -nfs 14 -tfs 14 -ofs 11 -T
+$ jt -t onedork -f roboto
 
 # Close theme
 jt -r
