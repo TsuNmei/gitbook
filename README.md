@@ -6,7 +6,7 @@ description: 這是我的 python 小筆記
 
 ### ＊ Python Lesson
 
-* [Class](python-lesson/python-class-lei-bie/) 
+* [Class](python-lesson/python-class-lei-bie/)
 * [Function](python-lesson/python-def-ding-yi.md)
 * [For/While](python-lesson/for-while-hui-quan.md)
 * [Generator/Iterator](python-lesson/generator-decorator.md)
