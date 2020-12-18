@@ -23,6 +23,7 @@
 * [Hash 雜湊值](extra-learn/hash-za-cou-zhi.md)
 * [Closure 閉包](extra-learn/closure-bi-bao.md)
 * [PyPi upload](extra-learn/pypi-upload.md)
+* [Linux](extra-learn/linux.md)
 
 ## SETUP
 
