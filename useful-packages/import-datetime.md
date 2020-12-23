@@ -146,3 +146,5 @@ datetime.datetime(2020, 12, 23, 12, 30).strftime("%H:%M")
 datetime.strptime("12:30", "%H:%M")   
 ```
 
+[https://www.delftstack.com/zh-tw/howto/python/how-to-convert-string-to-datetime/](https://www.delftstack.com/zh-tw/howto/python/how-to-convert-string-to-datetime/)
+
