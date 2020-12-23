@@ -130,3 +130,19 @@ print(delta.days)
 # Output: 366
 ```
 
+### Formatting 
+
+| 功能 | 描述 |
+| :--- | :--- |
+| `datetime.strftime` | 將 `<class: datetime.datetime>` 轉為字串  |
+| `datetime.strptime` | 將 字串 轉為  `<class: datetime.datetime>` |
+
+#### Example : 
+
+```python
+# "12:30"
+datetime.datetime(2020, 12, 23, 12, 30).strftime("%H:%M")
+# datetime.datetime(2020, 12, 23, 12, 30)
+datetime.strptime("12:30", "%H:%M")   
+```
+
