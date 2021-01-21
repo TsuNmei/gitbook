@@ -103,6 +103,18 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
+* _init.py_
+
+{% code title="\_\_init\_\_.py" %}
+```text
+# 每次更版後 + .0.1表示更新版本
+version=0.0.1
+
+#使用者可以在pip install [package_name] 後加上所需版號
+$ pip install my_package==0.0.1 
+```
+{% endcode %}
+
 ### 三、安裝上傳套件
 
 > [twine](https://twine.readthedocs.io/en/latest/) 套件主要目的是為了更方便 上傳我們的 Packages 到 pypi 上。
