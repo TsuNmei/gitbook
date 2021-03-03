@@ -12,6 +12,10 @@ Poetry doc file 格式採用 .**toml**，可以把它想像成 **.json** 即可�
 
 > 首先必須先在 Local 安裝 [POETRY](https://python-poetry.org/docs/)
 
+{% hint style="info" %}
+如果你是 macOS 使用者，請參考 [system預設python2.7 更改為python3](https://dev.to/malwarebo/how-to-set-python3-as-a-default-python-version-on-mac-4jjf)
+{% endhint %}
+
 ```text
 poetry new [project name]
 ```
