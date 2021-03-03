@@ -28,4 +28,5 @@
 ## SETUP
 
 * [Jupyter notebook](setup/jupyter-notebook.md)
+* [Poetry](setup/poetry.md)
 
