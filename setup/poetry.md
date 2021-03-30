@@ -17,7 +17,21 @@ Poetry doc file 格式採用 .**toml**，可以把它想像成 **.json** 即可�
 {% endhint %}
 
 ```text
-poetry new [project name]
+$ poetry new [project name]
+
+
+# if need to create a virtual environment
+$ touch poetry.toml
+[virtualenvs]
+in-project = true
+
+# create a virtual env command
+$ touch poetry shell
+-> will help to create a .venv
+
+$ source .venv/bin/activate
+$ poetry install
+
 ```
 
 
