@@ -1,28 +1,30 @@
 ---
-description: 這是我的 python 小筆記
+description: Developments and Operations
 ---
 
-# Python 筆記小天堂
+# DevOps
 
-### ＊ Python Lesson
+> DevOps 是近年來不斷在興起的一種軟體開發概念。DevOps 即是 Development 和 Operations 的結合，顧名思義主要是包含了開發者（包含軟體品質、測試人員）與維運人員（包含維護、系統架設人員）的之間的一種資訊文化運動。
 
-* [Class](python-lesson/python-class-lei-bie/)
-* [Function](python-lesson/python-def-ding-yi.md)
-* [For/While](python-lesson/for-while-hui-quan.md)
-* [Generator/Iterator](python-lesson/generator-decorator.md)
-* [Exceptions](https://app.gitbook.com/@meitzuen/s/python/~/drafts/-MOMb4-fk6O5arDHZT2E/python-lesson/exceptions)
+$$
+Development -And- Operations
+$$
 
-### ＊ Useful Packages
+{% hint style="success" %}
+DevOps 的核心概念其實包含了四種元素：
 
-* Json
-* Datetime
-* Requests
-* Urlib3
-* Pandas
-* Matplotlib
+* Culture
+* Automation
+* Measurement
+* Sharing
+{% endhint %}
 
-### ＊Extra Learn
+## Table of Content
 
-* Hash 雜湊值
-* Closure 閉包
+* Amazon Web Service
+* Terminal Multiplexer
+* Github
+* Git
+
+
 
